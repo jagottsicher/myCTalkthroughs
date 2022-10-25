@@ -55,3 +55,6 @@ bin/
 obj/
 *.save
 *.depend
+*.cbp
+*.layout
+main.c
